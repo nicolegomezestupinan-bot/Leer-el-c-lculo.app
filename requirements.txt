@@ -1,2 +1,4 @@
-voila
+numpy
+matplotlib
+sympy
 ipywidgets
